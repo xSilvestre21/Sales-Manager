@@ -1,5 +1,5 @@
 # Sales-Manager
-Aplicação gerenciadora de vendas 
+Aplicação gerenciadora de vendas
 ## Sobre o projeto 📄
 O sistema que será desenvolvido tem como objetivo controlar e gerenciar as vendas realizadas por representantes comerciais. A plataforma permitirá que diferentes representantes registrem suas vendas, consultem informações e acompanhem seu desempenho.
 O sistema também contará com integração com banco de dados centralizado, permitindo armazenar todas as informações de vendas, clientes e representantes. Além disso, serão gerados relatórios gerenciais, que poderão ser analisados através de ferramentas como Power BI, facilitando a visualização de métricas e resultados.
