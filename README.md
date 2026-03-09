@@ -5,7 +5,7 @@ O sistema que será desenvolvido tem como objetivo controlar e gerenciar as vend
 O sistema também contará com integração com banco de dados centralizado, permitindo armazenar todas as informações de vendas, clientes e representantes. Além disso, serão gerados relatórios gerenciais, que poderão ser analisados através de ferramentas como Power BI, facilitando a visualização de métricas e resultados.
 
 ## Arquitetura Pretendida 🖊️
-A arquitetura lógica utilizada será Cliente-Servidor, onde múltiplos usuários poderão acessar o sistema simultaneamente.
+A arquitetura lógica utilizada será `Cliente-Servidor`, onde múltiplos usuários poderão acessar o sistema simultaneamente.
 
 ✅ O cliente será a interface utilizada pelos representantes e gestores.
 
