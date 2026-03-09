@@ -15,7 +15,7 @@ A arquitetura lógica utilizada será Cliente-Servidor, onde múltiplos usuário
 
 Esse modelo permite que diversos usuários utilizem o sistema ao mesmo tempo, mantendo os dados centralizados e organizados.
 
-## Recurso Crítico do Sistema 🚫
+## Recurso Crítico do Sistema ‼️
 O recurso crítico identificado no sistema é o registro e atualização das vendas no banco de dados.
 
 Embora vários usuários possam acessar o sistema simultaneamente, é necessário garantir que uma mesma venda ou registro não seja alterado ao mesmo tempo por usuários diferentes, pois isso poderia gerar inconsistência nos dados, como valores incorretos ou duplicação de informações.
